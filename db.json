@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": "root",
+    "name": "Garments",
+    "children": [
+      {
+        "id": "1",
+        "name": "Men"
+      },
+      {
+        "id": "3",
+        "name": "Women",
+        "children": [
+          {
+            "id": "4",
+            "name": "Top Wear",
+            "children": [
+              {
+                "id": "6",
+                "name": "Skirts"
+              },
+              {
+                "id": "7",
+                "name": "Trowsers"
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "name": "Bottom wear"
+          }
+        ]
+      }
+    ]
+  }
+}
